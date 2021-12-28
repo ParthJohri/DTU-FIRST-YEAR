@@ -5,12 +5,12 @@
 
 <div align="center">
  
-[![GitHub forks](https://img.shields.io/github/forks/saloni-15/Heel2Toe?style=social&label=Fork&maxAge=2592000)](https://github.com/ParthJohri)
-[![GitHub stars](https://img.shields.io/github/stars/saloni-15/Heel2Toe?style=social&label=Star&maxAge=2592000)](https://github.com/ParthJohri/DTU-FIRST-YEAR)
+[![GitHub forks](https://img.shields.io/github/forks/ParthJohri/DTU-FIRST-YEAR?style=social&label=Fork&maxAge=2592000)](https://github.com/ParthJohri)
+[![GitHub stars](https://img.shields.io/github/stars/ParthJohri/DTU-FIRST-YEAR?style=social&label=Star&maxAge=2592000)](https://github.com/ParthJohri/DTU-FIRST-YEAR)
 <br />
  
 [![Welcome to my profile](https://img.shields.io/badge/Hello,Freshers!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/ParthJohri)
-[![Visits](https://komarev.com/ghpvc/?username=saloni-15&label=You%20Are%20Visitor%20No.&color=f20707&logo=github&style=flat-square)](https://github.com/ParthJohri/DTU-FIRST-YEAR)
+[![Visits](https://komarev.com/ghpvc/?username=ParthJohri&label=You%20Are%20Visitor%20No.&color=f20707&logo=github&style=flat-square)](https://github.com/ParthJohri/DTU-FIRST-YEAR)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ParthJohri/DTU-FIRST-YEAR)
 ![License](https://img.shields.io/badge/License-MIT-red.svg)
 <br/>
